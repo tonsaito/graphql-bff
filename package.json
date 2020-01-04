@@ -1,0 +1,31 @@
+{
+  "name": "graphql-bff",
+  "version": "1.0.0",
+  "description": "GraphQL Back-end for Front-end Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonsaito/graphql-bff.git"
+  },
+  "keywords": [
+    "graphql",
+    "bff",
+    "apollo",
+    "rest",
+    "datasource"
+  ],
+  "author": "@tonsaito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonsaito/graphql-bff/issues"
+  },
+  "homepage": "https://github.com/tonsaito/graphql-bff#readme",
+  "dependencies": {
+    "apollo-datasource-rest": "^0.6.11",
+    "apollo-server": "^2.9.15",
+    "graphql-import": "^0.7.1"
+  }
+}
